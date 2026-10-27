@@ -1,0 +1,6 @@
+{
+  "name": "Hospital OPD & Clinical Triage System",
+  "description": "Enterprise Hospital Outpatient Department (OPD) queue manager, intelligent clinical symptom checker, SOAP consultation notes, and prescription generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
